@@ -1147,6 +1147,7 @@ Professional-grade content creation with generous free tiers.
 | [Zed](https://zed.dev) | AI IDE | 50 AI prompts/month, native performance, high speed |
 | [Void IDE](https://voideditor.com/) | Agent-first IDE | Multi-agent frontend/backend/testing | Preview, free tier |
 | [MemoryPalace](https://github.com/milla-jovovich/mempalace) | AI Memory System | 96.6% LongMemEval — memory palace technique for AI conversations | Free, open source |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Agent Run Recording | Records an AI coding agent's session and replays it offline — the recorded model responses are served back, so the same run happens again with no API key and no tokens spent | Free, open source (Apache-2.0) |
 
 ---
 
